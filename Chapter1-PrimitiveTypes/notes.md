@@ -3,8 +3,8 @@
 The most basic building block of programming languages are ```variables```. Variables can have ```types```. We'll often deal with these primitive types such as: float, long, int, string, char, obj. These types take up different amount of memory since were storing bits here. When you do ```int i = 10;```  the program will allocate some memory for your integer. Take an example of a program that counts bits. 
 
 <details>
-    <summary>
-
+    <summary>countBits.java</summary>
+    
 ```java
 public class countBits {
     public static void main(String[] args) {
@@ -21,6 +21,4 @@ public class countBits {
     }
 }
 ```
-
-    </summary>
 </details>
