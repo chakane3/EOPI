@@ -4,7 +4,7 @@ The most basic building block of programming languages are ```variables```. Vari
 
 <details>
     <summary>countBits.java</summary>
-    
+
 ```java
 public class countBits {
     public static void main(String[] args) {
@@ -22,3 +22,5 @@ public class countBits {
 }
 ```
 </details>
+
+This program just counts the number of "set bits" (bits with the value of 1) in the binary representation of a given number. 
